@@ -1,3 +1,6 @@
+# PlatformIO
+.pio
+
 # Prerequisites
 *.d
 
@@ -26,7 +29,11 @@
 *.a
 *.lib
 
+# Map file
+*.map
+
 # Executables
 *.exe
 *.out
 *.app
+*.map

@@ -1,0 +1,1 @@
+#define NOT(x) (((x) == 1) ? false : true)
