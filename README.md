@@ -34,17 +34,17 @@ Push the right outboard button of transmitter to increase the four motor command
 Push the left inboard button of transmitter to reset  the four motor command to 1000
 
 # How to connect the Arduinon Pro Mini
-Pin 2 : CSN (NRF24L01)
-Pin 3 : CE (NRF24L01)
-Pin 4 : channel 1 (left front motor, M4)
-Pin 5 : channel 2 (right front motor, M2)
-Pin 6 : channel 3 (left rear motor, M3)
-Pin 7 : channel 4 (right rear motor, M1)
-Pin 8 : channel 5
-Pin 9 : channel 6
-Pin 10 : channel 9
-Pin 11 : MOSI (NRF24L01)
-Pin 12 : MISO (NRF24L01)
-Pin 13 : SCK (NRF24L01)
-TX0 : channel 7
-RX1 : channel 8
+Pin 2 : CSN (NRF24L01)  
+Pin 3 : CE (NRF24L01)  
+Pin 4 : channel 1 (left front motor, M4)  
+Pin 5 : channel 2 (right front motor, M2)  
+Pin 6 : channel 3 (left rear motor, M3)  
+Pin 7 : channel 4 (right rear motor, M1)   
+Pin 8 : channel 5  
+Pin 9 : channel 6  
+Pin 10 : channel 9  
+Pin 11 : MOSI (NRF24L01)  
+Pin 12 : MISO (NRF24L01)  
+Pin 13 : SCK (NRF24L01)  
+TX0 : channel 7  
+RX1 : channel 8  
