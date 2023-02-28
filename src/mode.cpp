@@ -79,8 +79,8 @@ void initializeMode(void)
 // Appuyer sur le bouton RO pour passer au moteur suivant (LF, RF, LR, RR)
 
 // TEST
-// Appuyer sur le bouton LO pour augmenter la commande de 50 pour chaque moteur
-// Appuyer sur le bouton RO pour diminuer la commande de 50 pour chaque moteur
+// Appuyer sur le bouton LO pour diminuer la commande de 50 pour chaque moteur
+// Appuyer sur le bouton RO pour augmenter la commande de 50 pour chaque moteur
 // Appuyer sur le bouton LI pour remettre la commande de chaque moteur à sa valeur mini
 
 void manageMode(void)
